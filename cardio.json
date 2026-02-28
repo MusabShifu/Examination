@@ -1,0 +1,243 @@
+{
+  "case 1": {
+    "history": "56 male presented with progressive shortness of breath for 1 year",
+
+    "steps": [
+
+      {
+        "action": "General inspection",
+        "findings": {
+          "position": "comfortable at 45 degrees",
+          "respiratory distress": "mild",
+          "oxygen therapy": "no"
+        }
+      },
+
+      {
+        "action": "Hands examination",
+        "findings": {
+          "clubbing": "no",
+          "pallor": "yes",
+          "cyanosis": "no",
+          "splinter hemorrhages": "no"
+        }
+      },
+
+      {
+        "action": "Pulse examination",
+        "findings": {
+          "pulse rhythm": "regular",
+          "pulse rate": "92 bpm",
+          "pulse volume": "normal",
+          "pulse character": "normal"
+        }
+      },
+
+      {
+        "action": "Blood pressure",
+        "findings": {
+          "blood pressure": "130/80 mmHg"
+        }
+      },
+
+      {
+        "action": "Neck examination",
+        "findings": {
+          "jvp raised": "yes",
+          "jvp length": "6 cm"
+        }
+      },
+
+      {
+        "action": "Precordium inspection",
+        "findings": {
+          "scars": "no",
+          "visible pulsation": "yes - apex area"
+        }
+      },
+
+      {
+        "action": "Palpation",
+        "findings": {
+          "apex beat": "displaced to 6th intercostal space midclavicular line",
+          "parasternal heave": "no",
+          "thrill": "no"
+        }
+      },
+
+      {
+        "action": "Auscultation",
+        "findings": {
+          "first heart sound": "soft",
+          "second heart sound": "normal",
+          "murmur": "pansystolic murmur loudest at mitral area",
+          "radiation": "to axilla"
+        }
+      },
+
+      {
+        "action": "Back auscultation",
+        "findings": {
+          "bibasal crackles": "present"
+        }
+      },
+
+      {
+        "action": "Peripheral examination",
+        "findings": {
+          "ankle edema": "bilateral",
+          "sacral edema": "no",
+          "hepatomegaly": "mild tender hepatomegaly"
+        }
+      },
+
+      {
+        "action": "Diagnosis",
+        "findings": {
+          "full cardiac diagnosis": "Severe Mitral Regurgitation secondary to Rheumatic Heart Disease with Congestive Heart Failure"
+        }
+      },
+
+      {
+        "action": "Investigation",
+        "findings": {
+          "ECG": "Left ventricular hypertrophy",
+          "Chest X-ray": "Cardiomegaly and pulmonary congestion",
+          "Echocardiography": "Severe mitral regurgitation with dilated left ventricle",
+          "Blood tests": "Normal hemoglobin and renal function"
+        }
+      },
+
+      {
+        "action": "Management",
+        "findings": {
+          "medical treatment": "Diuretics and ACE inhibitors",
+          "anticoagulation": "Not indicated",
+          "definitive treatment": "Mitral valve replacement"
+        }
+      }
+
+    ]
+  },
+
+
+  "case 2": {
+
+    "history": "68 male presented with exertional chest pain and dizziness for 6 months",
+
+    "steps": [
+
+      {
+        "action": "General inspection",
+        "findings": {
+          "position": "comfortable",
+          "respiratory distress": "no",
+          "oxygen therapy": "no"
+        }
+      },
+
+      {
+        "action": "Hands examination",
+        "findings": {
+          "clubbing": "no",
+          "pallor": "no",
+          "cyanosis": "no"
+        }
+      },
+
+      {
+        "action": "Pulse examination",
+        "findings": {
+          "pulse rhythm": "regular",
+          "pulse rate": "70 bpm",
+          "pulse volume": "low",
+          "pulse character": "slow rising"
+        }
+      },
+
+      {
+        "action": "Blood pressure",
+        "findings": {
+          "blood pressure": "110/70 mmHg"
+        }
+      },
+
+      {
+        "action": "Neck examination",
+        "findings": {
+          "jvp raised": "no",
+          "carotid pulse": "slow rising"
+        }
+      },
+
+      {
+        "action": "Precordium inspection",
+        "findings": {
+          "scars": "no",
+          "visible pulsation": "no"
+        }
+      },
+
+      {
+        "action": "Palpation",
+        "findings": {
+          "apex beat": "heaving",
+          "parasternal heave": "no",
+          "thrill": "present at aortic area"
+        }
+      },
+
+      {
+        "action": "Auscultation",
+        "findings": {
+          "first heart sound": "normal",
+          "second heart sound": "soft",
+          "murmur": "ejection systolic murmur loudest at aortic area",
+          "radiation": "to carotids"
+        }
+      },
+
+      {
+        "action": "Back auscultation",
+        "findings": {
+          "bibasal crackles": "no"
+        }
+      },
+
+      {
+        "action": "Peripheral examination",
+        "findings": {
+          "ankle edema": "no",
+          "hepatomegaly": "no"
+        }
+      },
+
+      {
+        "action": "Diagnosis",
+        "findings": {
+          "full cardiac diagnosis": "Severe Aortic Stenosis secondary to Senile Calcific Degeneration"
+        }
+      },
+
+      {
+        "action": "Investigation",
+        "findings": {
+          "ECG": "Left ventricular hypertrophy",
+          "Chest X-ray": "Mild cardiomegaly",
+          "Echocardiography": "Severe aortic stenosis with valve area less than 1 cm2",
+          "Cardiac catheterization": "Significant aortic valve gradient"
+        }
+      },
+
+      {
+        "action": "Management",
+        "findings": {
+          "medical treatment": "Careful use of diuretics",
+          "definitive treatment": "Aortic valve replacement",
+          "alternative treatment": "TAVI if high surgical risk"
+        }
+      }
+
+    ]
+  }
+}
