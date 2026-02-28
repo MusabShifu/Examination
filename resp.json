@@ -1,0 +1,421 @@
+
+{
+  "case 1": {
+    "history": "54 male present with chronic cough for 2 months",
+    "steps": [
+      {
+        "action": "At the end of the bed - observe deep breathing",
+        "findings": {
+          "side moving less": "left side"
+        }
+      },
+      {
+        "action": "General inspection",
+        "findings": {
+          "oxygen cylinder": "no",
+          "sputum pot": "no"
+        }
+      },
+      {
+        "action": "Hands examination",
+        "findings": {
+          "clubbing": "yes",
+          "tobacco staining": "no",
+          "pallor": "no",
+          "peripheral cyanosis": "yes",
+          "flapping tremors": "no"
+        }
+      },
+      {
+        "action": "Pulse examination",
+        "findings": {
+          "respiratory rate": "22 breaths/min",
+          "pulse rhythm": "regular",
+          "pulse rate": "88 bpm",
+          "pulse volume": "normal"
+        }
+      },
+      {
+        "action": "Blood pressure and temperature",
+        "findings": {
+          "blood pressure": "135/85 mmHg",
+          "temperature": "36.8°C"
+        }
+      },
+      {
+        "action": "Eyes examination",
+        "findings": {
+          "jaundice": "no",
+          "pallor": "no"
+        }
+      },
+      {
+        "action": "Mouth examination",
+        "findings": {
+          "central cyanosis": "yes",
+          "oral mucosa": "moist",
+          "teeth": "natural"
+        }
+      },
+      {
+        "action": "Neck examination",
+        "findings": {
+          "tracheal tug": "yes",
+          "jvp raised": "yes",
+          "jvp length": "5 cm",
+          "cervical lymphadenopathy": "no",
+          "trachea position": "deviated to right"
+        }
+      },
+      {
+        "action": "Anterior chest inspection",
+        "findings": {
+          "chest movement symmetrical": "no - left side reduced",
+          "chest expansion": "reduced on left side",
+          "scars": "no",
+          "chest contour abnormal": "yes - flattened on left",
+          "dilated veins": "no",
+          "barrel chest": "no",
+          "type of breathing": "labored",
+          "use of accessory muscles": "yes"
+        }
+      },
+      {
+        "action": "Palpation - anterior chest",
+        "findings": {
+          "pain on palpation": "no",
+          "palpable second heart sound": "yes",
+          "trachea central": "no",
+          "tracheal deviation": "to the right",
+          "tactile vocal fremitus": "decreased on left side",
+          "apex beat localized": "yes - shifted slightly left",
+          "chest expansion symmetrical": "no",
+          "chest expansion reduced": "yes - left side more than right"
+        }
+      },
+      {
+        "action": "Percussion - anterior chest",
+        "findings": {
+          "above collarbones": "resonant bilaterally",
+          "on collarbones": "resonant bilaterally",
+          "below collarbones": "dull on left, resonant on right",
+          "mid armpit line": "dull on left, resonant on right",
+          "upper zones": "dull on left, resonant on right",
+          "middle zones": "dull on left, resonant on right",
+          "lower zones": "dull on left, resonant on right"
+        }
+      },
+      {
+        "action": "Auscultation - anterior chest",
+        "findings": {
+          "above collarbones": "normal vesicular bilaterally",
+          "below collarbones": "bronchial breathing on left, vesicular on right",
+          "at nipples": "fine crackles on left, normal on right",
+          "side of chest": "fine crackles on left, normal on right",
+          "air entry": "reduced on left side",
+          "breath sounds": "bronchial on left, vesicular on right",
+          "added sounds": "fine crackles on left side only",
+          "whispered pectoriloquy": "present on left",
+          "cough test": "no wheeze",
+          "vocal resonance": "increased on left side"
+        }
+      },
+      {
+        "action": "Inspect the back",
+        "findings": {
+          "chest wall abnormalities": "no",
+          "scars": "no",
+          "spinal deformity": "no",
+          "muscle wasting": "no"
+        }
+      },
+      {
+        "action": "Chest expansion and touch vibration at back",
+        "findings": {
+          "chest expansion symmetrical": "no",
+          "chest expansion reduced": "yes - left side reduced",
+          "tactile vocal fremitus": "decreased on left base"
+        }
+      },
+      {
+        "action": "Percuss back",
+        "findings": {
+          "above shoulder blades": "resonant bilaterally",
+          "between shoulder blades": "dull on left, resonant on right",
+          "below shoulder blades": "dull on left, resonant on right",
+          "lower bases": "dull on left, resonant on right",
+          "costophrenic angles": "dull on left"
+        }
+      },
+      {
+        "action": "Auscultate back",
+        "findings": {
+          "type of breathing": "bronchial on left upper zone, vesicular elsewhere",
+          "air entry": "reduced on left side",
+          "breath sounds": "reduced on left base",
+          "added sounds": "fine crackles on left base",
+          "vocal resonance": "increased on left side"
+        }
+      },
+      {
+        "action": "Abdomen examination",
+        "findings": {
+          "enlarged liver": "no",
+          "liver span": "normal",
+          "ascites": "no",
+          "abdominal tenderness": "no"
+        }
+      },
+      {
+        "action": "Complete examination",
+        "findings": {
+          "lower limb swelling": "yes - bilateral ankle edema",
+          "sacral edema": "no",
+          "peak flow reading": "reduced - 250 L/min",
+          "sputum examination": "scanty mucoid",
+          "oxygen saturation": "92% on room air"
+        }
+      },
+      {
+        "action": "Thank and cover patient",
+        "findings": {
+          "patient covered": "yes",
+          "thanks given": "yes",
+          "next steps explained": "yes"
+        }
+      }
+    ],
+    "summary": {
+      "diagnosis": "Lung Fibrosis",
+      "key findings": [
+        "Left side moves less on deep breathing",
+        "Bilateral fine crackles - more on left",
+        "Clubbing",
+        "Peripheral and central cyanosis",
+        "Reduced chest expansion - left side",
+        "Dull percussion note - left side",
+        "Bronchial breathing - left upper zone",
+        "Increased vocal resonance - left side",
+        "Tracheal deviation to the right"
+      ],
+      "laterality": "Left side more affected than right",
+      "distribution": "Upper lobe fibrosis likely",
+      "severity": "Moderate to severe",
+      "differential diagnoses": [
+        "Idiopathic pulmonary fibrosis",
+        "Connective tissue disease related fibrosis",
+        "Occupational lung disease"
+      ]
+    }
+  },
+  "case 2": {
+    "history": "39 female present with chronic cough for 1 month",
+    "steps": [
+      {
+        "action": "At the end of the bed - observe deep breathing",
+        "findings": {
+          "side moving less": "right side"
+        }
+      },
+      {
+        "action": "General inspection",
+        "findings": {
+          "oxygen cylinder": "no",
+          "sputum pot": "no"
+        }
+      },
+      {
+        "action": "Hands examination",
+        "findings": {
+          "clubbing": "yes",
+          "tobacco staining": "no",
+          "pallor": "no",
+          "peripheral cyanosis": "no",
+          "flapping tremors": "no"
+        }
+      },
+      {
+        "action": "Pulse examination",
+        "findings": {
+          "respiratory rate": "20 breaths/min",
+          "pulse rhythm": "regular",
+          "pulse rate": "82 bpm",
+          "pulse volume": "normal"
+        }
+      },
+      {
+        "action": "Blood pressure and temperature",
+        "findings": {
+          "blood pressure": "125/80 mmHg",
+          "temperature": "36.7°C"
+        }
+      },
+      {
+        "action": "Eyes examination",
+        "findings": {
+          "jaundice": "no",
+          "pallor": "no"
+        }
+      },
+      {
+        "action": "Mouth examination",
+        "findings": {
+          "central cyanosis": "no",
+          "oral mucosa": "moist",
+          "teeth": "natural"
+        }
+      },
+      {
+        "action": "Neck examination",
+        "findings": {
+          "tracheal tug": "no",
+          "jvp raised": "no",
+          "jvp length": "normal",
+          "cervical lymphadenopathy": "no",
+          "trachea position": "deviated to left"
+        }
+      },
+      {
+        "action": "Anterior chest inspection",
+        "findings": {
+          "chest movement symmetrical": "no - right side reduced",
+          "chest expansion": "reduced on right side",
+          "scars": "no",
+          "chest contour abnormal": "yes - flattened on right",
+          "dilated veins": "no",
+          "barrel chest": "no",
+          "type of breathing": "mildly labored",
+          "use of accessory muscles": "no"
+        }
+      },
+      {
+        "action": "Palpation - anterior chest",
+        "findings": {
+          "pain on palpation": "no",
+          "palpable second heart sound": "no",
+          "trachea central": "no",
+          "tracheal deviation": "to the left",
+          "tactile vocal fremitus": "decreased on right side",
+          "apex beat localized": "yes",
+          "chest expansion symmetrical": "no",
+          "chest expansion reduced": "yes - right side more than left"
+        }
+      },
+      {
+        "action": "Percussion - anterior chest",
+        "findings": {
+          "above collarbones": "resonant bilaterally",
+          "on collarbones": "resonant bilaterally",
+          "below collarbones": "dull on right, resonant on left",
+          "mid armpit line": "dull on right, resonant on left",
+          "upper zones": "dull on right, resonant on left",
+          "middle zones": "dull on right, resonant on left",
+          "lower zones": "dull on right, resonant on left"
+        }
+      },
+      {
+        "action": "Auscultation - anterior chest",
+        "findings": {
+          "above collarbones": "normal vesicular bilaterally",
+          "below collarbones": "bronchial breathing on right, vesicular on left",
+          "at nipples": "fine crackles on right, normal on left",
+          "side of chest": "fine crackles on right, normal on left",
+          "air entry": "reduced on right side",
+          "breath sounds": "bronchial on right, vesicular on left",
+          "added sounds": "fine crackles on right side only",
+          "whispered pectoriloquy": "present on right",
+          "cough test": "no wheeze",
+          "vocal resonance": "increased on right side"
+        }
+      },
+      {
+        "action": "Inspect the back",
+        "findings": {
+          "chest wall abnormalities": "no",
+          "scars": "no",
+          "spinal deformity": "no",
+          "muscle wasting": "no"
+        }
+      },
+      {
+        "action": "Chest expansion and touch vibration at back",
+        "findings": {
+          "chest expansion symmetrical": "no",
+          "chest expansion reduced": "yes - right side reduced",
+          "tactile vocal fremitus": "decreased on right base"
+        }
+      },
+      {
+        "action": "Percuss back",
+        "findings": {
+          "above shoulder blades": "resonant bilaterally",
+          "between shoulder blades": "dull on right, resonant on left",
+          "below shoulder blades": "dull on right, resonant on left",
+          "lower bases": "dull on right, resonant on left",
+          "costophrenic angles": "dull on right"
+        }
+      },
+      {
+        "action": "Auscultate back",
+        "findings": {
+          "type of breathing": "bronchial on right upper zone, vesicular elsewhere",
+          "air entry": "reduced on right side",
+          "breath sounds": "reduced on right base",
+          "added sounds": "fine crackles on right base",
+          "vocal resonance": "increased on right side"
+        }
+      },
+      {
+        "action": "Abdomen examination",
+        "findings": {
+          "enlarged liver": "no",
+          "liver span": "normal",
+          "ascites": "no",
+          "abdominal tenderness": "no"
+        }
+      },
+      {
+        "action": "Complete examination",
+        "findings": {
+          "lower limb swelling": "no",
+          "sacral edema": "no",
+          "peak flow reading": "reduced - 280 L/min",
+          "sputum examination": "scanty mucoid",
+          "oxygen saturation": "95% on room air"
+        }
+      },
+      {
+        "action": "Thank and cover patient",
+        "findings": {
+          "patient covered": "yes",
+          "thanks given": "yes",
+          "next steps explained": "yes"
+        }
+      }
+    ],
+    "summary": {
+      "diagnosis": "Lung Fibrosis",
+      "key findings": [
+        "Right side moves less on deep breathing",
+        "Fine crackles - right side",
+        "Clubbing",
+        "No cyanosis",
+        "Reduced chest expansion - right side",
+        "Dull percussion note - right side",
+        "Bronchial breathing - right upper zone",
+        "Increased vocal resonance - right side",
+        "Tracheal deviation to the left",
+        "No signs of pulmonary hypertension"
+      ],
+      "laterality": "Right side affected, left side normal",
+      "distribution": "Upper lobe fibrosis likely",
+      "severity": "Moderate",
+      "differential diagnoses": [
+        "Idiopathic pulmonary fibrosis",
+        "Connective tissue disease related fibrosis",
+        "Occupational lung disease",
+        "Post-tuberculosis fibrosis"
+      ]
+    }
+  }
+}
